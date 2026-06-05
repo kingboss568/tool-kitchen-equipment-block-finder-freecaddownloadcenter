@@ -1,0 +1,45 @@
+Kitchen Equipment Block Finder
+
+Kitchen Equipment Block Finder is a practical cad studio workspace for BIM coordinator teams who need a working tool, reference pages, exportable notes, and SEO-ready guidance in one static site.
+
+Key sections:
+- https://kitchen.freecaddownloadcenter.com/
+- https://kitchen.freecaddownloadcenter.com/tool/
+- https://kitchen.freecaddownloadcenter.com/workspace/
+- https://kitchen.freecaddownloadcenter.com/reports/
+- https://kitchen.freecaddownloadcenter.com/guides/
+- https://kitchen.freecaddownloadcenter.com/library/
+- https://kitchen.freecaddownloadcenter.com/templates/
+- https://kitchen.freecaddownloadcenter.com/compare/
+- https://kitchen.freecaddownloadcenter.com/checklists/
+- https://kitchen.freecaddownloadcenter.com/integrations/
+- https://kitchen.freecaddownloadcenter.com/settings/
+- https://kitchen.freecaddownloadcenter.com/plans/
+- https://kitchen.freecaddownloadcenter.com/faq/
+- https://kitchen.freecaddownloadcenter.com/privacy/
+- https://kitchen.freecaddownloadcenter.com/about/
+- https://kitchen.freecaddownloadcenter.com/guides/preflight-a-dwg-package-1/
+- https://kitchen.freecaddownloadcenter.com/guides/standardize-a-drawing-set-2/
+- https://kitchen.freecaddownloadcenter.com/guides/prepare-a-client-handoff-3/
+- https://kitchen.freecaddownloadcenter.com/guides/audit-a-template-4/
+- https://kitchen.freecaddownloadcenter.com/guides/compare-block-options-5/
+- https://kitchen.freecaddownloadcenter.com/guides/document-drawing-assumptions-6/
+- https://kitchen.freecaddownloadcenter.com/guides/preflight-a-dwg-package-7/
+- https://kitchen.freecaddownloadcenter.com/guides/standardize-a-drawing-set-8/
+- https://kitchen.freecaddownloadcenter.com/guides/prepare-a-client-handoff-9/
+- https://kitchen.freecaddownloadcenter.com/guides/audit-a-template-10/
+- https://kitchen.freecaddownloadcenter.com/guides/compare-block-options-11/
+- https://kitchen.freecaddownloadcenter.com/guides/document-drawing-assumptions-12/
+- https://kitchen.freecaddownloadcenter.com/guides/preflight-a-dwg-package-13/
+- https://kitchen.freecaddownloadcenter.com/guides/standardize-a-drawing-set-14/
+- https://kitchen.freecaddownloadcenter.com/guides/prepare-a-client-handoff-15/
+- https://kitchen.freecaddownloadcenter.com/guides/audit-a-template-16/
+- https://kitchen.freecaddownloadcenter.com/guides/compare-block-options-17/
+- https://kitchen.freecaddownloadcenter.com/guides/document-drawing-assumptions-18/
+- https://kitchen.freecaddownloadcenter.com/guides/preflight-a-dwg-package-19/
+- https://kitchen.freecaddownloadcenter.com/guides/standardize-a-drawing-set-20/
+- https://kitchen.freecaddownloadcenter.com/guides/prepare-a-client-handoff-21/
+- https://kitchen.freecaddownloadcenter.com/guides/audit-a-template-22/
+- https://kitchen.freecaddownloadcenter.com/guides/compare-block-options-23/
+- https://kitchen.freecaddownloadcenter.com/guides/document-drawing-assumptions-24/
+- https://kitchen.freecaddownloadcenter.com/guides/preflight-a-dwg-package-25/
